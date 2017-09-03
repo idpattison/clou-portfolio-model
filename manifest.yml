@@ -1,0 +1,4 @@
+applications:
+- name: ibm-cloud-portfolio
+  memory: 256M
+  buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
